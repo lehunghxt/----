@@ -1,6 +1,6 @@
-#Github
+# Github
 <hr>
-##1. Cách thức hoạt động của Github
+## 1. Cách thức hoạt động của Github
 <img src="https://miro.medium.com/max/700/0*j1QfxoExS1X67_AN.png" alt="">
 <p>Mô hình hoạt động của GIT cần nắm một số khái niệm</p>
 - Repository (repo): là nơi chứa source code.
