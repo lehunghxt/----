@@ -60,25 +60,37 @@ Lưu thông tin đăng nhập bằng lệnh: `git config --global credential.hel
 ### Nhánh trong Git
 
 <p>Kiểm tra branch hiện tại</p> 
+
 `$ git branch`
+
 <p>Tạo mới một branch</p>
+
 ` $ git branch <name_branch>`
+
 <p>Để chuyển và tạo mới</p>
+
 `$ git branch -b <name_branch>`
 
 ### Cập nhập thay đổi
 
 <p>Cập nhập tất cả các file</p>
+
 `$ git add .`
+
 <p>Thay đổi thông tin trên Local Repo</p>
+
 `$ git commit -m "Message"`
 
 ### Cập nhập lên Server
 
 <p>Cập nhập lên server thì thực hiện câu lệnh</p>
+
 `$ git push origin <name_branch>`
+
 <p>Nếu chưa tồn tại remote trên server thì bạn cần add mới một remote trước rồi mới push</p>
-`$ git remote add origin <remote_url>`
+
+`$ git remote add origin <remote_url>` 
+
 `$ git push origin <name_branch>`
 
 ### Xem lại lịch sử commit
@@ -91,7 +103,7 @@ Lưu thông tin đăng nhập bằng lệnh: `git config --global credential.hel
 
 
 
-#Markdown
+# Markdown
 
 # 2.Markdown là gì?
 
